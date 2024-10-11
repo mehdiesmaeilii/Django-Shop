@@ -73,3 +73,7 @@ You can add extra categories and products inside admin panel and it will be show
 saving 
 
 do not forget that you have to enter your phone number to enter admin panel
+
+I used some cabinet pictures but you can remove that from admin panel
+
+when you choose a product and choose the quantity you will automatically redirect to shopping cart
