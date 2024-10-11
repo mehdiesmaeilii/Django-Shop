@@ -2,7 +2,7 @@
 
 This is my first e-commerce project with a lot of features
 
-I hope you wil like that
+I hope you will like that
 
 
 ## Features
