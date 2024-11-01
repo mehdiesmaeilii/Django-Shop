@@ -1,5 +1,5 @@
 from kavenegar import *
-
+#for sending sms with kavehnegar for registeration
 def send_otp_code(phone_number,code):
     try:
         api=KavenegarAPI('enter here')
